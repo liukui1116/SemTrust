@@ -1,6 +1,6 @@
 # SemTrust
 
-### SemTrust: Vision-Language Guided Conflict-Aware Fusion for Visible-Infrared Camouflaged Object Detection
+### SemTrust: Vision-Language Guided Modality Conflict-Aware Fusion for Visible-Infrared Camouflaged Object Detection
 
 **Official PyTorch Implementation**
 
@@ -10,7 +10,7 @@
 
 ## 📖 Introduction
 
-Welcome to the official repository of **SemTrust: Vision-Language Guided Conflict-Aware Fusion for Visible-Infrared Camouflaged Object Detection**.
+Welcome to the official repository of **SemTrust: Vision-Language Guided Modality Conflict-Aware Fusion for Visible-Infrared Camouflaged Object Detection**.
 
 SemTrust is a vision-language guided framework designed for **Visible-Infrared Camouflaged Object Detection**. By incorporating semantic guidance and conflict-aware cross-modal fusion, SemTrust aims to facilitate effective information interaction between visible and infrared modalities for robust camouflaged object detection.
 
